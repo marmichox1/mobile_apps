@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="selectedlanguage">Français</string>
+    <string name="select_lang">SELECTIONNER UNE LANGUE</string>
+    <string name="connexion">Connexion</string>
+    <string name="title">VoyaGo</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="inscrire">S\'inscrire</string>
+    <string name="no_account">Vous n\'avez pas de compte?</string>
+    <string name="registre">Inscrivez-vous</string>
+    <string name="password_placeholder">Votre mot de passe</string>
+    <string name="email_placeholder">Votre adresse mail</string>
+    <string name="enter_text">Entrez du texte</string>
+    <string name="add">Ajouter</string>
+    <string name="travel_name">Nom voyage a programmé</string>
+    <string name="planed_destination">Destinations planifier</string>
+    <string name="visited_destination">destinations visitées</string>
+    <string name="enter_destination">entrez un destination</string>
+    <string name="capture_image">Capturer une image</string>
+    <string name="registration">Inscription</string>
+    <string name="username_placeholder">Nom d\'utilisateur</string>
+    <string name="yes_account">Vous avez déja un compte?</string>
+    <string name="connecte">Connectez-vous</string>
+
+</resources>
